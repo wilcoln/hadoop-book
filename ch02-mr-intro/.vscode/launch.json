@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxTemperatureWithCombiner",
+            "request": "launch",
+            "mainClass": "MaxTemperatureWithCombiner",
+            "projectName": "ch02-mr-intro"
+        }
+    ]
+}
